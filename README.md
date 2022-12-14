@@ -38,3 +38,5 @@ You should now be able to access the app at [http://localhost:3000](http://local
 
 You will be able to get recommended Christmas gifts, after filling out the form.
 Have fun!
+
+![This is an image](public/gift-screenshot.png)
